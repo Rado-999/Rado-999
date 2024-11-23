@@ -1,4 +1,7 @@
-## Hi there 👋
+Hi there 👋
+
+I'm Radoslav, a 23 years old enthusiastic web developer.
+
 
 <!--
 **Rado-999/Rado-999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
